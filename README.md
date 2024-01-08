@@ -4,11 +4,11 @@
 <img align= "right" alt="coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 📄 ([Portfolio Website](https://chandrasekarkumaran.vercel.app/))
+- 📄 [Portfolio Website](https://chandrasekarkumaran.vercel.app/)
   
 - 🌱 I’m currently learning **JavaScript, React**
 
-- 👨‍💻 All of my projects are available at [https://weather-chandrasekar.netlify.app/](https://weather-chandrasekar.netlify.app/)
+- 👨‍💻 All of my projects are available [here](https://weather-chandrasekar.netlify.app/)
 
 - 💬 Ask me about **Web development and Java**
 
