@@ -4,8 +4,8 @@
 <img align= "right" alt="coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 📄 Portfolio Website([Portfolio Wensite1](https://chandrasekarkumaran.vercel.app/))
-- 
+- 📄 ([Portfolio Website](https://chandrasekarkumaran.vercel.app/))
+  
 - 🌱 I’m currently learning **JavaScript, React**
 
 - 👨‍💻 All of my projects are available at [https://weather-chandrasekar.netlify.app/](https://weather-chandrasekar.netlify.app/)
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kumaransekar007@gmail.com**
 
-- 📄 My resume [https://drive.google.com/file/d/1e7WnwLao7wKkS5jP_xcvEbg6FSu8ptk9/view?usp=drive_link](https://drive.google.com/file/d/1e7WnwLao7wKkS5jP_xcvEbg6FSu8ptk9/view?usp=drive_link)
+- 📄 [My resume](https://drive.google.com/file/d/1e7WnwLao7wKkS5jP_xcvEbg6FSu8ptk9/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
