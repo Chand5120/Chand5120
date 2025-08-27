@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **Web development and Java**
 
-- 📫 How to reach me **kumaransekar007@gmail.com**
+- 📫 How to reach me **Chandrasekar51200@gmail.com**
 
-- 📄 [My resume](https://drive.google.com/file/d/1e7WnwLao7wKkS5jP_xcvEbg6FSu8ptk9/view?usp=drive_link)
+- 📄 [My resume](https://docs.google.com/document/d/1CZHeyRnyHnHwD2bNT5ysJ1DvaYVE9F8N/edit?usp=sharing&ouid=110620912037296735206&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
